@@ -3,6 +3,7 @@ function App() {
   <div>
     <nav>
       <ul style={{
+        margin: '0',
         color: 'blue',
         backgroundColor: 'lightgray',
         padding: '10px',
@@ -20,12 +21,6 @@ function App() {
       color: 'red'
     }}>Hello My Name is sourav</h1>
     <p>This is a simple app to demonstrate a React component.</p>
-    <table>
-    <th>Table
-    </th>
-     <tr>Sourav</tr>
-     <tr>Surav</tr>
-     </table>
   </div>
 )
 }
