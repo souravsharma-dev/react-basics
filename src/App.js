@@ -24,5 +24,6 @@ function App() {
   </div>
 )
 }
+import Footer from './Footer.jsx';
  
 export default App;
