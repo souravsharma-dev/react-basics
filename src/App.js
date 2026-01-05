@@ -1,5 +1,8 @@
+import Footer from './Footer.jsx';
+
 function App() {
   return (
+  
   <div>
     <nav>
       <ul style={{
@@ -21,9 +24,8 @@ function App() {
       color: 'red'
     }}>Hello My Name is sourav</h1>
     <p>This is a simple app to demonstrate a React component.</p>
+    <Footer></Footer>
   </div>
 )
 }
-import Footer from './Footer.jsx';
- 
 export default App;
